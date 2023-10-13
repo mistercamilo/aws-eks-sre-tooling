@@ -1,0 +1,5 @@
+examples/
+kops/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
